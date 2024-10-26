@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762673708935",
+    "project_id": "onboardingapp-b63b8",
+    "storage_bucket": "onboardingapp-b63b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762673708935:android:3316906cb8a0da87461d22",
+        "android_client_info": {
+          "package_name": "com.practise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkUffYa7Ez4DGPbry3v4evZoRWtLDBCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
